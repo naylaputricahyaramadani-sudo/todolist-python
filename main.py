@@ -12,4 +12,5 @@ def add_task():
 add_task()
 
 print("\nDaftar Task:")
-print(tasks)
+for t in tasks:
+    print("-", t)
