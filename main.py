@@ -5,7 +5,7 @@ def update_status(index, status):
     else:
         print("Index tidak valid.")
 
-    def delete_task(index):
+def delete_task(index):
     if 0 <= index < len(tasks):
         deleted_task = tasks.pop(index)
         print(f"Task '{deleted_task['title']}' berhasil dihapus!")
