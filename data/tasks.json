@@ -3,7 +3,7 @@
         "id": 1,
         "title": "Membuat requirement aplikasi",
         "description": "Menyusun kebutuhan fungsional dan non-fungsional",
-        "status": "todo",
+        "status": "done",
         "priority": "high",
         "assignee": "Rina"
     },
@@ -30,5 +30,13 @@
         "status": "done",
         "priority": "low",
         "assignee": "Dika"
+    },
+    {
+        "id": 5,
+        "title": "Testing Login",
+        "description": "Menguji fitur login",
+        "status": "todo",
+        "priority": "high",
+        "assignee": "Karen"
     }
 ]
